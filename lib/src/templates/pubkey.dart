@@ -8,4 +8,5 @@ bool inputCheck(List<dynamic> chunks) {
 
 bool outputCheck(Uint8List script) {
   // TODO
+  return true;
 }
